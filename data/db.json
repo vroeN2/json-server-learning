@@ -1,0 +1,36 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Welcome to the new blog",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae neque eligendi saepe, quidem quibusdam similique voluptates iure qui incidunt ex fugiat laborum placeat libero, quas corrupti culpa? Aut, molestiae eligendi?",
+            "likes": 30
+        },
+        {
+            "id": 2,
+            "title": "How to be a Raven King",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae neque eligendi saepe, quidem quibusdam similique voluptates iure qui incidunt ex fugiat laborum placeat libero, quas corrupti culpa? Aut, molestiae eligendi?",
+            "likes": 21
+        },
+        {
+            "id": 3,
+            "title": "New project coming soon",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae neque eligendi saepe, quidem quibusdam similique voluptates iure qui incidunt ex fugiat laborum placeat libero, quas corrupti culpa? Aut, molestiae eligendi?",
+            "likes": 15
+        },
+        {
+            "id": 4,
+            "title": "I'm learning JSON now",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae neque eligendi saepe, quidem quibusdam similique voluptates iure qui incidunt ex fugiat laborum placeat libero, quas corrupti culpa? Aut, molestiae eligendi?",
+            "likes": 20
+        }
+    ],
+    "polls": [
+        {
+            "id": 1,
+            "question": "Do you prefer Vue or React?",
+            "answerA": "Vue",
+            "answerB": "React"
+        }
+    ]
+}
